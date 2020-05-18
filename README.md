@@ -1,2 +1,1 @@
-# python-code
-by this u can calculate force of gravit 
+This programming will help u for calculating the temperature .(converts temperature to fahrenheit or celsius)
